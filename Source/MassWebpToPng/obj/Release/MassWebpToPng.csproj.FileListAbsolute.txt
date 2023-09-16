@@ -1,0 +1,10 @@
+C:\Users\Mastermind\source\repos\MassWebpToPng\MassWebpToPng\bin\Release\MassWebpToPng.exe.config
+C:\Users\Mastermind\source\repos\MassWebpToPng\MassWebpToPng\bin\Release\MassWebpToPng.exe
+C:\Users\Mastermind\source\repos\MassWebpToPng\MassWebpToPng\bin\Release\MassWebpToPng.pdb
+C:\Users\Mastermind\source\repos\MassWebpToPng\MassWebpToPng\obj\Release\MassWebpToPng.csproj.AssemblyReference.cache
+C:\Users\Mastermind\source\repos\MassWebpToPng\MassWebpToPng\obj\Release\MassWebpToPng.Form1.resources
+C:\Users\Mastermind\source\repos\MassWebpToPng\MassWebpToPng\obj\Release\MassWebpToPng.Properties.Resources.resources
+C:\Users\Mastermind\source\repos\MassWebpToPng\MassWebpToPng\obj\Release\MassWebpToPng.csproj.GenerateResource.cache
+C:\Users\Mastermind\source\repos\MassWebpToPng\MassWebpToPng\obj\Release\MassWebpToPng.csproj.CoreCompileInputs.cache
+C:\Users\Mastermind\source\repos\MassWebpToPng\MassWebpToPng\obj\Release\MassWebpToPng.exe
+C:\Users\Mastermind\source\repos\MassWebpToPng\MassWebpToPng\obj\Release\MassWebpToPng.pdb
